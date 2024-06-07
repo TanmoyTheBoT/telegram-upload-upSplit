@@ -12,7 +12,7 @@ if "%selectedFile%"=="" (
 )
 
 :: Execute the Telegram upload command with the full path
-set "telegramCommand=telegram-upload --to TheBoTCollecTive "%selectedFile%""
+set "telegramCommand=telegram-upload --to telegramchannelusername "%selectedFile%""
 echo Executing: %telegramCommand%
 %telegramCommand%
 
