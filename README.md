@@ -11,7 +11,7 @@ Upload files into Telegram up to 2 GiB using your free account.
 ## Getting Started
 
 
-* Install python,7zip(set the path in Environment Variables),telegram-upload
+* Install python(tkinter),7zip(set the path in Environment Variables),telegram-upload
 * telegram-upload {telegram-api&hash} 
 ```
 pip install telegram-upload
