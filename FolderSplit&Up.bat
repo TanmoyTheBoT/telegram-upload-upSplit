@@ -2,8 +2,8 @@
 setlocal
 
 REM Specify the paths to your batch files
-set "first_batch_file=D:\Tanmoy\Github\telegram-upload-upSplit\upSplit\FolderSplit.bat"
-set "second_batch_file=D:\Tanmoy\Github\telegram-upload-upSplit\upSplit\uploadALL.bat"
+set "first_batch_file=c:\fullpath\upSplit\upSplit\FolderSplit.bat"
+set "second_batch_file=c:\fullpath\upSplit\upSplit\uploadALL.bat"
 
 REM Execute the first batch file
 call "%first_batch_file%"
