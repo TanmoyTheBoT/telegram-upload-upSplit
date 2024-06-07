@@ -18,7 +18,7 @@ if %fileCount%==0 (
 :: Execute the Telegram upload command for each selected file
 for /l %%N in (1,1,%fileCount%) do (
     set "currentFile=!selectedFile[%%N]!"
-    set "telegramCommand=telegram-upload --to TheBoTCollecTive "!currentFile!""
+    set "telegramCommand=telegram-upload --to telegramchannelusername "!currentFile!""
     echo Executing: !telegramCommand!
     !telegramCommand!
 )
