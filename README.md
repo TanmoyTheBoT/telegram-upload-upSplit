@@ -24,4 +24,4 @@ For More (https://github.com/Nekmo/telegram-upload)
 
 This project developed by [Tanmoy](https://github.com/TanmoyTheBoT)
 Thanks to [Nikmo](https://github.com/Nekmo/) for the [telegram-upload](https://github.com/Nekmo/telegram-upload) project.
-Telegram-upload is licensed under the `MIT license <https://github.com/Nekmo/telegram-upload/blob/master/LICENSE>`_.
+telegram-upload-upSplit is licensed under the [MIT license] (https://github.com/TanmoyTheBoT/telegram-upload-upSplit/blob/master/LICENSE).
